@@ -20,4 +20,5 @@ func main() {
 	fmt.Println(processDay1())
 	fmt.Println(processDay2())
 	fmt.Println(processDay3())
+	fmt.Println(processDay4())
 }
